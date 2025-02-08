@@ -1,0 +1,50 @@
+{
+    "players":[
+        {
+            "name": "Player 1",
+            "team": 1,
+            "cardAmount": 1,
+            "active" : false,
+            "deck":["D2", "D3", "D4", "D5", "D6", "D7"]
+        },
+        {
+            "name": "Player 1",
+            "team": 1,
+            "cardAmount": 1,
+            "active" : false,
+            "deck":["D2", "D3", "D4", "D5", "D6", "D7"]
+        },
+        {
+            "name": "Player 1",
+            "team": 1,
+            "cardAmount": 1,
+            "active" : false,
+            "deck":["D2", "D3", "D4", "D5", "D6", "D7"]
+        },
+        {
+            "name": "Player 1",
+            "team": 1,
+            "cardAmount": 1,
+            "active" : false,
+            "deck":["D2", "D3", "D4", "D5", "D6", "D7"]
+        },
+        {
+            "name": "Player 1",
+            "team": 1,
+            "cardAmount": 1,
+            "active" : false,
+            "deck":["D2", "D3", "D4", "D5", "D6", "D7"]
+        },
+        {
+            "name": "Player 1",
+            "team": 1,
+            "cardAmount": 1,
+            "active" : false,
+            "deck":["D2", "D3", "D4", "D5", "D6", "D7"]
+        }
+    ],
+    "scores": {
+        "1": 0,
+        "2": 0
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "baseWindow": {
+        "mainSize": [
+            1000,
+            800
+        ],
+        "mainTitle": "Gofish Online",
+        "gameSize": [
+            30, 30, 830, 630
+        ]
+    },
+    "game": {
+        "players": [
+            [20, 440],
+            [550, 480],
+            [150, 30],
+            [450, 30]
+        ],
+        "cardSize": [80, 120],
+        "backSize": [40, 60],
+        "cardLength": 500,
+        "backLength": 150
+    }
+}

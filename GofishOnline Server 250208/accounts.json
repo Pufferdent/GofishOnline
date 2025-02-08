@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Test",
+        "password": "tfpljrxtrjhwapsfqqjj",
+        "creationIP": "120.244.238.85"
+    },
+    {
+        "name": "bot1",
+        "password": "bot1",
+        "creationIP": "120.244.238.85"
+    },
+    {
+        "name": "bot2",
+        "password": "bot2",
+        "creationIP": "120.244.238.85"
+    },
+    {
+        "name": "bot3",
+        "password": "bot3",
+        "creationIP": "120.244.238.85"
+    },
+    {
+        "name": "test1",
+        "password": "admin",
+        "creationIP": "60.247.5.135"
+    },
+    {
+        "name": "test2",
+        "password": "admin",
+        "creationIP": "223.72.70.213"
+    }
+]
